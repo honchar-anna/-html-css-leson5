@@ -745,7 +745,7 @@ table thead th:nth-child(4){
 
 }
 table tbody td{
-   padding-top: 47px;
+   padding-top: 20px;
 
 }
 table tbody td:nth-child(2){
@@ -754,3 +754,7 @@ table tbody td:nth-child(2){
 table tbody td:nth-child(4){
    padding-left: 57px;
 } 
+.t1:hover{
+   box-shadow: 0px 0px 22px  rgba(0, 0, 0, 0.347);
+   border-radius: 5px;
+}
